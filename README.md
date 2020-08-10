@@ -1,5 +1,6 @@
-### Hi there 👋
-
+### Welcom to my Git Repository 👋
+### First of all, I'm donguk Kim who is 26 years old!
+### I've studied PROGRAMMING from 2020.07.20~
 <!--
 **oogiayo/oogiayo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
