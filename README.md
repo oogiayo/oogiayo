@@ -1,13 +1,13 @@
-### Welcom to my Git Repository 👋
-## First of all, I'm donguk Kim who is 26 years old!
-## I've studied PROGRAMMING from 2020.07.04~ 
-## So..you know.. I'm still kind of BEGINNER🤔
-## However I run sooooooooo fast & hard :)
+## Welcom to my Git Repository 👋
+#### First of all, I'm donguk Kim who is 26 years old!
+#### I've studied PROGRAMMING from 2020.07.04~ 
+#### So..you know.. I'm still kind of BEGINNER🤔
+#### However I run sooooooooo fast & hard :)
 ##
 ### NOW I'm LEARNING
-## 1) Algorithm : JAVA Python
-## 2) Front-end : HTML CSS
-## 3) BigData Analysis : Python
+#### 1) Algorithm : JAVA Python
+#### 2) Front-end : HTML CSS
+#### 3) BigData Analysis : Python
 <!--
 **oogiayo/oogiayo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
