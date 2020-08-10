@@ -4,7 +4,7 @@
 #### So..you know.. I'm still kind of BEGINNER🤔
 #### However I run sooooooooo fast & hard :)
 ##
-### NOW I'm LEARNING
+### NOW I'M LEARNING
 #### 1) Algorithm : JAVA Python
 #### 2) Front-end : HTML CSS
 #### 3) BigData Analysis : Python
