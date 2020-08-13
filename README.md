@@ -8,6 +8,12 @@
 #### 1) Algorithm : JAVA Python
 #### 2) Front-end : HTML CSS
 #### 3) BigData Analysis : Python
+##
+### About Me
+- Blog: [My Github Blog](oogiayo.github.io)
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **oogiayo/oogiayo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -22,3 +28,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
