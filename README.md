@@ -17,7 +17,7 @@
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=oogiayo)](https://github.com/oogiayo/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oogiayo&layout=compact&hide=javascript)](https://github.com/oogiayo/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oogiayo&layout=compact&hide=javascript, css)](https://github.com/oogiayo/github-readme-stats)
 <!--
 **oogiayo/oogiayo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
