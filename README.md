@@ -1,15 +1,12 @@
-## Welcom to my Git Repository 👋
-#### First of all, I'm donguk Kim who is 26 years old!
-#### I've studied PROGRAMMING from 2020.07.04~ 
-#### So..you know.. I'm still kind of BEGINNER🤔
-#### But I've been running sooooooooo fast & hard :)
+## Welcome to my Git Repository 👋
+#### From 2020.07.04~ 
 ##
 
 ### NOW I'M LEARNING
-#### 1) Algorithm : JAVA, Python
+#### 1) Algorithm : Python, Java
 #### 2) Back-end(Server) : Django*Python 
-#### 3) Front-end : HTML, CSS
-#### 4) DB : Oracle, SQLite3
+#### 3) Front-end : Javascript, HTML, CSS
+#### 4) DB : MySQL, SQLite3
 #### 5) BigData Analysis : Python
 
 ### About Me
