@@ -1,13 +1,12 @@
 ## Welcome to my Git Repository 👋
 #### From 2020.07.04~ 
-##
 
 #### 1) Algorithm: Python, Java
 #### 2) Back-end: Django-DRF 
 #### 3) Front-end: Vue.JS-HTML/CSS/JS
 #### 4) DB: MySQL
 
-### Project
+## Project
 #### 1) [Movie-project](oogiayo.movie_project)
 
 ### About Me
