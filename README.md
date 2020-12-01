@@ -2,12 +2,13 @@
 #### From 2020.07.04~ 
 ##
 
-### NOW I'M LEARNING
-#### 1) Algorithm : Python, Java
-#### 2) Back-end(Server) : Django*Python 
-#### 3) Front-end : Javascript, HTML, CSS
-#### 4) DB : MySQL, SQLite3
-#### 5) BigData Analysis : Python
+#### 1) Algorithm: Python, Java
+#### 2) Back-end: Django-DRF 
+#### 3) Front-end: Vue.JS-HTML/CSS/JS
+#### 4) DB: MySQL
+
+### Project
+#### 1) [Movie-project](oogiayo.movie_project)
 
 ### About Me
 - Blog: [My Github Blog](oogiayo.github.io)
