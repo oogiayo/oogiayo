@@ -7,7 +7,7 @@
 #### 4) DB: MySQL
 
 ## Project
-#### 1) [Movie-project](oogiayo.movie_project)
+#### 1) [Movie-project](https://github.com/oogiayo/movie_project)
 
 ### About Me
 - Blog: [My Github Blog](oogiayo.github.io)
